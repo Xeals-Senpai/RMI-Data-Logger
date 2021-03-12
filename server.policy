@@ -1,0 +1,6 @@
+//RMI Data Logger Service Coursework
+//Server side policy file
+
+grant {
+	permission java.security.AllPermission;
+};

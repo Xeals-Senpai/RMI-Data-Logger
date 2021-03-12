@@ -1,0 +1,8 @@
+/*
+ * RMI Data Logger Coursework
+ * Client Side Policy file
+*/
+
+grant {
+	permission java.security.AllPermission;
+};
